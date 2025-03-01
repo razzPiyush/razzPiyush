@@ -6,7 +6,7 @@
 - 💻 Participated in ICPC, Google Hashcode, and Meta Hacker Cup, performing well.
 - 🛠️ Experienced in web development, DevOps, and backend development.
 - 📚 Currently exploring advanced backend systems and microservices.
-- 📫 Reach me at: [Your Email] | [LinkedIn Profile](https://www.linkedin.com/in/piyush-raj-1272b320b/)
+- 📫 Reach me at: piyushrazz0019@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/piyush-raj-1272b320b/)
 
 ---
 
@@ -18,25 +18,4 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=razzPiyush&show_icons=true&theme=radical)
-
----
-
-## 🔥 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razzPiyush&layout=compact&theme=radical)
-
----
-
-## 🌱 Currently Learning
-- Advanced Backend Development with Java(Spring Boot).
-- Cloud Architecture and Microservices with AWS.
-
----
-
-## 📫 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/piyush-raj-1272b320b/)
-- [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:piyushrazz0019@gmail.coml)
 
