@@ -5,7 +5,6 @@
 - 🌟 Expert on Codeforces and a 5-star coder on CodeChef.
 - 💻 Participated in ICPC, Google Hashcode, and Meta Hacker Cup, performing well.
 - 🛠️ Experienced in web development, DevOps, and backend development.
-- 📚 Currently exploring advanced backend systems and microservices.
 - 📫 Reach me at: piyushrazz0019@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/piyush-raj-1272b320b/)
 
 ---
