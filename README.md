@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 Graduate of IIT (ISM) Dhanbad with a B.Tech in Electrical Engineering.
 - 💻 Participated in ICPC, Google Hashcode, and Meta Hacker Cup, performing well.
-- 🛠️ Experienced in backend development and intrested in AI/ML and cloud technologies.
+- 🛠️ Experienced in backend development and interested in AI/ML and cloud technologies.
 - ❤️‍🔥 Passionate about optimizing algorithms, designing scalable systems, and solving real-world challenges.
 
 ---
